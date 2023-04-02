@@ -4,12 +4,10 @@
   "description": "Simple Cron Job Scheduler",
   "main": "index.js",
   "scripts": {
-    "send": "node cronscheduler.js",
+    "schedule": "node cronscheduler.js",
   },
   "keywords": [
-    "Email",
-    "Outlook",
-    "client"
+    "Cron Job"
   ],
   "author": "Sundar",
   "license": "MIT",
